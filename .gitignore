@@ -3,3 +3,6 @@
 */terraform.tfstate.backup
 */.terraform
 */mykey*
+first-steps/.terraform.lock.hcl
+demo-1/.terraform.lock.hcl
+demo-1/terraform.tfvars.tf
