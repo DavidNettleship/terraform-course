@@ -8,3 +8,4 @@ demo-1/.terraform.lock.hcl
 demo-1/terraform.tfvars.tf
 demo-3/.terraform.lock.hcl
 demo-3/.terraform.tfstate.lock.info
+demo-4/.terraform.lock.hcl
